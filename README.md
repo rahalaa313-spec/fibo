@@ -1,5 +1,5 @@
 # Fibo — predictive maintenance for small workshops without sensors
-
+ДЛЯ ЖЮРИ ЕСЛИ НЕТУ ВРЕМЕНИ НА ВВЕДЕНИЕ СТАНКОВ И ТД rahalaa313@gmail.com лоигн: Ra280212 парооь
 Fibo estimates how likely each machine in a small workshop (5–30 machines, Shymkent, Kazakhstan) is
 to fail, explains why, and ranks maintenance work by expected loss in tenge — **without sensors**.
 Data comes from an ordinary phone: operators talk to a **Telegram bot** (voice in Russian or Kazakh,
